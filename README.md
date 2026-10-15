@@ -149,7 +149,7 @@ Python • Pandas • NumPy • SciPy • Matplotlib • Seaborn • scikit-lear
 
 ```
 
-*Update this tree if your actual project files differ.*
+
 
 ## Installation
 
@@ -158,7 +158,7 @@ Python 3.11 or a compatible version is recommended.
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Rauof-Qadir/fraud-experiment-risk-lab>
 cd fraud-experiment-risk-lab
 ```
 
@@ -239,10 +239,10 @@ This project is for educational and research purposes. The selected threshold an
 
 ## Author
 
-**Your Name**
+**Rauof Qadir**
 
 Software Engineering Graduate | Data Science | Financial Risk Analytics
 
-GitHub: <YOUR_GITHUB_PROFILE_URL>
+GitHub: <https://github.com/Rauof-Qadir>
 
-LinkedIn: <YOUR_LINKEDIN_PROFILE_URL>
+LinkedIn: <linkedin.com/in/rauof-qadir-a68a25338>
