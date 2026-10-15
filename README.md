@@ -27,6 +27,13 @@ This project investigates how different rule-based strategies affect:
 
 **Important:** This is an experimental analytics project, not a production-ready banking fraud system.
 
+![Amount Distribution](reports/amount_distribution.png)
+![Amount Distribution](reports/baseline_confusion_matrix.png)
+![Amount Distribution](reports/fraud_by_type.png)
+![Amount Distribution](reports/fraud_distribution.png)
+![Amount Distribution](reports/new_rule_confusion_matrix.png)
+
+
 ## Key Results
 
 The selected threshold was chosen using validation data and evaluated on a separate, later test period.
