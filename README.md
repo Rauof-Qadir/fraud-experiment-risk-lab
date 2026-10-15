@@ -245,4 +245,4 @@ Software Engineering Graduate | Data Science | Financial Risk Analytics
 
 GitHub: <https://github.com/Rauof-Qadir>
 
-LinkedIn: <linkedin.com/in/rauof-qadir-a68a25338>
+LinkedIn: linkedin.com/in/rauof-qadir-a68a25338
