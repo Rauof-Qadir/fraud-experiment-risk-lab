@@ -1,0 +1,4 @@
+partition,first_step,last_step,unique_steps,transactions,valid_labels,fraud_count,genuine_count
+train,1,520,520,6082007,6082007,5781,6076226
+validation,521,631,111,191147,191147,1180,189967
+test,632,743,112,89466,89466,1252,88214

@@ -1,0 +1,2 @@
+selected_threshold,test_transactions,baseline_cost,selected_rule_cost,estimated_saving,mcnemar_p_value,bootstrap_95_ci_lower,bootstrap_95_ci_upper,bootstrap_repetitions
+750000,89466,183635.0,126915.0,56720.0,0.0,-10156.124999999998,132951.0,2000

@@ -1,0 +1,2 @@
+evaluated_transactions,TN,FP,FN,TP,precision,recall,accuracy
+6362620,3592211,2762196,0,8213,0.002965,1.0,0.565871

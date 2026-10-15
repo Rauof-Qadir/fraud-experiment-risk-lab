@@ -1,0 +1,38 @@
+{
+    "total_rows": 6362620,
+    "total_columns": 11,
+    "duplicate_rows": 0,
+    "missing_values_by_column": {
+        "step": 0,
+        "type": 0,
+        "amount": 0,
+        "nameOrig": 0,
+        "oldbalanceOrg": 0,
+        "newbalanceOrig": 0,
+        "nameDest": 0,
+        "oldbalanceDest": 0,
+        "newbalanceDest": 0,
+        "isFraud": 0,
+        "isFlaggedFraud": 0
+    },
+    "missing_cells_total": 0,
+    "fraud_transactions": 8213,
+    "genuine_transactions": 6354407,
+    "invalid_fraud_labels": 0,
+    "fraud_rate_percent": 0.1291,
+    "amount_negative_count": 0,
+    "amount_zero_count": 16,
+    "column_types": {
+        "step": "int64",
+        "type": "str",
+        "amount": "float64",
+        "nameOrig": "str",
+        "oldbalanceOrg": "float64",
+        "newbalanceOrig": "float64",
+        "nameDest": "str",
+        "oldbalanceDest": "float64",
+        "newbalanceDest": "float64",
+        "isFraud": "int64",
+        "isFlaggedFraud": "int64"
+    }
+}

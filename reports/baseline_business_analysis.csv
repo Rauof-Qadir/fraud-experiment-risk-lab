@@ -1,0 +1,2 @@
+total_transactions,flagged_transactions,genuine_transactions_flagged,fraud_transactions_detected,false_positive_rate_percent,fraud_miss_rate_percent,genuine_flag_rate_percent,frauds_per_1000_flags
+6362620,2770409,2762196,8213,43.469,0.0,43.469,2.96

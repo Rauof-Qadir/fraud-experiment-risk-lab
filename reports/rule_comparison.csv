@@ -1,0 +1,3 @@
+rule,evaluated_transactions,TN,FP,FN,TP,precision,recall,accuracy,estimated_cost_usd
+Baseline,6362620,3592211,2762196,0,8213,0.002965,1.0,0.565871,13810980.0
+New rule,6362620,5162209,1192198,2742,5471,0.004568,0.666139,0.812194,6372290.0

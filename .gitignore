@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Testing and notebooks
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local environment
+.env
+.env.*
+
+# Local dataset — publish only if permitted
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
